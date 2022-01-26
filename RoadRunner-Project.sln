@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roadrunner-Box", "RoadRunner-Project\Roadrunner-Box.csproj", "{F5BA2CB8-4979-445B-9CEE-7F24E5DC68CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadRuner-Test", "RoadRuner-Test\RoadRuner-Test.csproj", "{1AC8D4E5-8F4F-4610-8DE4-881A53E91305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5BA2CB8-4979-445B-9CEE-7F24E5DC68CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BA2CB8-4979-445B-9CEE-7F24E5DC68CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BA2CB8-4979-445B-9CEE-7F24E5DC68CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BA2CB8-4979-445B-9CEE-7F24E5DC68CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC8D4E5-8F4F-4610-8DE4-881A53E91305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC8D4E5-8F4F-4610-8DE4-881A53E91305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC8D4E5-8F4F-4610-8DE4-881A53E91305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC8D4E5-8F4F-4610-8DE4-881A53E91305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF72A56E-1BCB-46C5-988D-C3CD1D31AA31}
+	EndGlobalSection
+EndGlobal
